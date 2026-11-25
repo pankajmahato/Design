@@ -7,3 +7,4 @@ Design Patterns
 | 2      | Factory          | [Link](src/main/java/com/pankajmahato/designpatterns/factory/Runner.java)         |
 | 3      | Abstract Factory | [Link](src/main/java/com/pankajmahato/designpatterns/abstractfactory/Runner.java) |
 | 4      | Builder          | [Link](src/main/java/com/pankajmahato/designpatterns/builder/Runner.java)         |
+| 5      | Prototype        | [Link](src/main/java/com/pankajmahato/designpatterns/prototype/Runner.java)       |
