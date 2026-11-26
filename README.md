@@ -10,3 +10,4 @@ Design Patterns
 | 5      | Prototype        | [Link](src/main/java/com/pankajmahato/designpatterns/prototype/Runner.java)       |
 | 6      | Adapter          | [Link](src/main/java/com/pankajmahato/designpatterns/adapter/Runner.java)         |
 | 7      | Bridge           | [Link](src/main/java/com/pankajmahato/designpatterns/bridge/Runner.java)          |
+| 8      | Decorator        | [Link](src/main/java/com/pankajmahato/designpatterns/decorator/Runner.java)       |
