@@ -13,3 +13,4 @@ Design Patterns
 | 8      | Decorator        | [Link](src/main/java/com/pankajmahato/designpatterns/decorator/Runner.java)       |
 | 9      | Facade           | [Link](src/main/java/com/pankajmahato/designpatterns/facade/Runner.java)          |
 | 10     | Proxy            | [Link](src/main/java/com/pankajmahato/designpatterns/proxy/Runner.java)           |
+| 11     | Composite        | [Link](src/main/java/com/pankajmahato/designpatterns/composite/Runner.java)       |
